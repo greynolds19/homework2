@@ -1,0 +1,29 @@
+.container {
+    background-image: url('http://www.vector-eps.com/wp-content/gallery/scroll-papers-backgrounds/scroll-papers-background7.jpg')
+}
+
+.container {
+        width: 800px;
+        height: 100px;
+}
+
+.good {
+    text-align: left
+}
+
+.bad {
+    text-align: right
+}
+
+.level, h1 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.level {
+    font-size: 60px;
+}
+
+button {
+    background-color: #ff00fc;
+}
